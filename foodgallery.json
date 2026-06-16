@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "description": "Makanan khas Indonesia",
+    "imageId": "nasi goreng"
+  },
+  {
+    "id": 2,
+    "name": "Mie Ayam",
+    "description": "Mie dengan ayam dan kuah",
+    "imageId": "mie ayam"
+  },
+  {
+    "id": 3,
+    "name": "Sate Ayam",
+    "description": "Sate dengan bumbu kacang",
+    "imageId": "sate ayam"
+  }
+]
